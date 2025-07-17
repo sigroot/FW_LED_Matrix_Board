@@ -1,0 +1,10 @@
+/home/samuelarmstrong/Documents/FrameworkTinkering/LEDMatrixFiles/project/sig_rp2040_board/target/debug/deps/libautocfg-59bb31ce6ad27807.rmeta: /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/samuelarmstrong/Documents/FrameworkTinkering/LEDMatrixFiles/project/sig_rp2040_board/target/debug/deps/libautocfg-59bb31ce6ad27807.rlib: /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/samuelarmstrong/Documents/FrameworkTinkering/LEDMatrixFiles/project/sig_rp2040_board/target/debug/deps/autocfg-59bb31ce6ad27807.d: /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/home/samuelarmstrong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:
