@@ -1,0 +1,12 @@
+[package]
+name = "sig_rp2040_board"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+futures = { version = "0.3.31", features = ["executor"] }
+serde = "1.0.219"
+serde_json = "1.0.140"
+sig_rp2040_applet = { version = "0.1.0", path = "../sig_rp2040_applet" }
+sig_rp2040_interface = { version = "0.1.0", path = "../sig_rp2040_interface" }
+tokio = { version = "1.45.1", features = ["net", "io-util", "time", "rt"] }
