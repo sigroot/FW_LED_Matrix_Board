@@ -19,7 +19,7 @@ The server can update each applet at roughly 80 frames per second.
 
 [FW_LED_Matrix_Interface](https://github.com/sigroot/FW_LED_Matrix_Interface) is a Rust library for interfacing between this firmware and other Rust programs.
 
-[FW_LED_Matrix_Applet](https://github.com/sigroot/FW_LED_Matrix_Applet) is a Rust Library for interfacing between Rust programs and [FW_LED_Matrix_Board](https://github.com/sigroot/FW_LED_Matrix_Board).
+[FW_LED_Applet_Interface](https://github.com/sigroot/FW_LED_Applet_Interface) is a Rust Library for interfacing between Rust programs and [FW_LED_Matrix_Board](https://github.com/sigroot/FW_LED_Matrix_Board).
 ### Communication
 Communication is over TCP
 

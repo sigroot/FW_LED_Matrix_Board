@@ -1,6 +1,6 @@
 [package]
 name = "sig_rp2040_board_applet"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "Applet library for matrix board"
