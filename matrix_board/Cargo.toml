@@ -1,12 +1,18 @@
 [package]
-name = "sig_rp2040_board"
+name = "sig_rp2040_matrix_board"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Server for applets on framework LED Matrix"
+repository = "https://github.com/sigroot/FW_LED_Matrix_Board"
+readme = "README.md"
+keywords = ["framework", "ledmatrix"]
+categories = ["graphics", "parsing"]
 
 [dependencies]
 futures = { version = "0.3.31", features = ["executor"] }
 serde = "1.0.219"
 serde_json = "1.0.140"
-sig_rp2040_applet = { version = "0.1.0", path = "../sig_rp2040_applet" }
-sig_rp2040_interface = { version = "0.1.0", path = "../sig_rp2040_interface" }
+sig_rp2040_applet = { version = "0.1.0" }
+sig_rp2040_interface = { version = "0.1.0" }
 tokio = { version = "1.45.1", features = ["net", "io-util", "time", "rt"] }

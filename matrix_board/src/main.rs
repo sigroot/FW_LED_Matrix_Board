@@ -11,7 +11,7 @@
 //!
 //! Communication is over TCP
 //!
-//! Commands are received with JSON encoded 'Command' strucutres in the format:
+//! Commands are received with JSON encoded 'Command' structres in the format:
 //! ```text
 //! {
 //!     "opcode": "<Command Name>",
@@ -38,13 +38,11 @@
 //! UpdateGrid - Rewrites the current 9x10 applet grid with new values
 //!
 //! Parameters: 
-//! 
 //!     90 u8 representing grid brightnesses - rows then columns (1st 10 is row1, 2nd 10 is row2, etc.)
 //!
 //! UpdateBar - Rewrites the current 9x1 applet separator
 //!
 //! Parameters: 
-//!
 //!     9 u8 representing separator brightnesses
 //!
 //!     Note: Error 32 returned if bar is not variable
@@ -78,7 +76,7 @@ use std::env;
 
 use std::time::Duration;
 
-use sig_rp2040_board::*;
+use sig_rp2040_matrix_board::*;
 
 use std::net::SocketAddr;
 use std::process::exit;
