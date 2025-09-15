@@ -1,5 +1,4 @@
 # Framework LED Matrix Board
-![Insert Gif Here](readme/TBD.gif)
 ## Preamble
 **THIS IS UNOFFICIAL SOFTWARE. I AM NOT AFFILIATED WITH FRAMEWORK**
 
